@@ -1,0 +1,24 @@
+site_name: AI Handbook
+site_description: LLM 与 Agentic Coding 使用手册
+site_url: https://eetose.github.io/AI-handbook
+
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - 首页: index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
