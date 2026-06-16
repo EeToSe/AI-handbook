@@ -1,6 +1,8 @@
+# Project information
 site_name: AI Handbook
 site_description: LLM 与 Agentic Coding 使用手册
 site_url: https://eetose.github.io/AI-handbook
+site_author: Sheng Li
 
 theme:
   name: material
@@ -8,12 +10,20 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.expand
     - search.highlight
     - content.code.copy
 
 nav:
   - 首页: index.md
+  - 课题组 AI 使用公告:
+      - 01-access-and-account/index.md
+      - 网络访问: 01-access-and-account/internet.md
+      - 账号访问: 01-access-and-account/account.md
+      - 长对话管理: 01-access-and-account/context.md
+      - 模型使用: 01-access-and-account/usage.md
+      - 使用承诺书: 01-access-and-account/commitment.md
 
 plugins:
   - search

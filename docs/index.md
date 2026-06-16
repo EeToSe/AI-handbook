@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# 首页
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+本手册面向课题组成员，目标是帮助大家合规、稳定、高效地使用 ChatGPT、Codex、Claude Code 及其他 AI 工具，支撑文献调研、代码开发、实验复现、论文写作和项目管理。
 
-## Commands
+课题组提供的 AI 服务涉及共享账号、订阅额度、网络配置、数据安全和学术诚信要求。新成员在使用前，应先阅读[课题组 AI 服务使用公告](01-access-and-account/index.md)，并向管理员确认当前可用的账号、订阅、网络和额度安排。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+未完成公告阅读和使用承诺签署的成员，不应申请或使用课题组提供的共享 AI 服务。
